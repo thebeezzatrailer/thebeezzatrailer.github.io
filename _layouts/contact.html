@@ -1,0 +1,26 @@
+---
+title: Contact
+layout: default
+bodyClass: "page-contact"
+---
+
+<div class="container pb-6 pt-6 pt-md-10 pb-md-10">
+    <div class="row justify-content-start">
+        <div class="col-12 col-md-8">
+            <div class="service service-single">
+                <h1 class="title">{{page.title}}</h1>
+                {% include call.html show_button=false %}
+                <div class="content mt-4">{{content}}</div>
+                <iframe
+                    src="https://docs.google.com/forms/d/e/1FAIpQLSfwwWc9epeFDQ0k8pfAqWPm-Ev3abSX3UNLIsRUPXnmJojuHA/viewform?embedded=true"
+                    width="640"
+                    height="3100"
+                    frameborder="0"
+                    marginheight="0"
+                    marginwidth="0">
+                        Loading…
+                </iframe>
+            </div>
+        </div>
+    </div>
+</div>

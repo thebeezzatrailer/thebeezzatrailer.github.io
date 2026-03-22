@@ -1,0 +1,12 @@
+[
+  {
+      "name": "Email",
+      "link": "mailto:red.thepeachyrooster@gmail.com ",
+      "image": "images/social/email.svg"
+  },
+  {
+      "name": "Instagram",
+      "link": "https://www.instagram.com/thepeachyrooster/",
+      "image": "images/social/instagram.svg"
+  }
+]

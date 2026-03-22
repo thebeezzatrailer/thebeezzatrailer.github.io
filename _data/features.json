@@ -1,0 +1,32 @@
+[
+  {
+    "title": "First event? 10% off!",
+    "description": "New clients receive a 10% discount on their first event.",
+    "url": "https://forms.gle/UJzViENJVAFHq97c7",
+    "image": {
+      "url": "images/features/10_off.svg",
+      "width": 120,
+      "height": 120
+    }
+  },
+  {
+    "title": "Group workshops",
+    "description": "Book a workshop for at least 6 people and bring 1 friend for free.",
+    "url": "https://forms.gle/KEX8nCza3jkHGJ619",
+    "image": {
+      "url": "images/features/group_workshop.svg",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "title": "Gift cards",
+    "description": "Do you have a friend that loves cooking? Gift them a pasta, focaccia, sourdough, or pizza workshop!",
+    "url": "https://forms.gle/chud7D2yLAPhNX6z5",
+    "image": {
+      "url": "images/features/gift_card.svg",
+      "width": 80,
+      "height": 80
+    }
+  }
+]

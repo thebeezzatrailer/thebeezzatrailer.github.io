@@ -1,0 +1,27 @@
+main:
+  - name: "Home"
+    url: "/"
+    weight: 1
+  - name: "Services"
+    url: "/services/"
+    weight: 2
+  - name: "Pizza menu"
+    url: "/pizza_menu/"
+    weight: 3
+  - name: "Gifts & Special offers"
+    url: "/gifts_special_offers/"
+    weight: 4
+  - name: "Team"
+    url: "/team/"
+    weight: 5
+  - name: "Contact"
+    url: "/contact/"
+    weight: 6
+
+footer:
+  - name: "Home"
+    url: "/"
+    weight: 1
+  - name: "Contact"
+    url: "/contact/"
+    weight: 2

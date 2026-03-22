@@ -41,4 +41,4 @@ Fill in [this form](https://forms.gle/KEX8nCza3jkHGJ619){:target="_blank"} to re
 
 # Get a customized quote
 
-Fill in the form below or follow [this link](https://forms.gle/UJzViENJVAFHq97c7){:target="_blank"}
+Fill in the form below or follow [this link](https://forms.gle/UJzViENJVAFHq97c7){:target="_blank"}.

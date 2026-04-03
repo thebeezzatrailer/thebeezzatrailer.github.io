@@ -30,4 +30,4 @@ We bring the pizzeria to your driveway! Book a private workshop for 6 and **your
 
 # Gift cards
 
-Give the **gift of dough-slinging fun**! Grab a workshop gift card and we'll bring the mobile pizza party straight to their doorstep. Fill out [this form](https://forms.gle/chud7D2yLAPhNX6z5){:target="_blank"} to deliver an unforgettable experience!"
+Give the **gift of dough-slinging fun**! Grab a workshop gift card and we'll bring the mobile pizza party straight to their doorstep. Fill out [this form](https://forms.gle/chud7D2yLAPhNX6z5){:target="_blank"} to deliver an unforgettable experience!
